@@ -1,0 +1,28 @@
+name: Angry Cat Media
+favicon: null
+layout_spectrum: 0.68257
+typography_spectrum: 0.06968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#d40f59'
+    - '#333333'
+    - '#acacac'
+    - '#dc3e79'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
