@@ -1,7 +1,7 @@
 name: Angry Cat Media
 favicon: null
-layout_spectrum: 0.68257
-typography_spectrum: 0.06968
+layout_spectrum: 0.9330431113485247
+typography_spectrum: 0.28477198886685073
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#d40f59'
-    - '#333333'
-    - '#acacac'
-    - '#dc3e79'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6708907205611467
+  lightness: 0.12772916397079825
+  saturation: 0.9427153817377985
+  rhythmicContrast: 0.05203798389993608
 purpose: []
